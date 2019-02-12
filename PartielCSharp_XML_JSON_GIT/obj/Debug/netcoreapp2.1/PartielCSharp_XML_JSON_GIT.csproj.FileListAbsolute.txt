@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\bin\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.deps.json
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\bin\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.runtimeconfig.json
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\bin\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\bin\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.dll
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\bin\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.pdb
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.dll
+C:\Users\ASUS\source\repos\PartielCSharp_XML_JSON_GIT\PartielCSharp_XML_JSON_GIT\obj\Debug\netcoreapp2.1\PartielCSharp_XML_JSON_GIT.pdb
